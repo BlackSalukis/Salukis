@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brianbong
 - 👀 I’m interested in IoT
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Digital Health
+- 📫 How to reach me ... 
 
 <!---
 brianbong/brianbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
