@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianbong
+- 👋 Hi, I’m @Salukis
 - 👀 I’m interested in IoT
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on Digital Health
